@@ -41,7 +41,6 @@
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Saketh-Vadlamudi&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
-
 <br>
 
 ### ✍️ Random Dev Quote
