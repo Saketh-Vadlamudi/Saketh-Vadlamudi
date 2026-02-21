@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Senior AI Engineer @ Oracle
+# 🚀 Senior AI Engineer @ Tiger Analytics
 **Architecting Production-Grade AI Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakethvadlamudi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakethvadlamudi22@gmail.com) 
@@ -10,7 +10,7 @@
 ---
 
 # 💫 About Me
-* 🚀 **Senior AI Engineer @ Oracle** specializing in building production-grade **GenAI, RAG, and ML systems** at scale.
+* 🚀 **Senior AI Engineer @ Tiger Analytics** specializing in building production-grade **GenAI, RAG, and ML systems** at scale.
 * 🧠 Architect of **autonomous, multi-agent reasoning engines** using **LangGraph** to decompose complex user requests into intelligent execution graphs.
 * 🔍 Expert in designing **Hybrid RAG search systems** that combine semantic recall with dense vector embeddings for high-precision retrieval.
 * ⚖️ Specialized in **LLM Fine-tuning (QLoRA)** to optimize open-source models for domain-specific tasks.
