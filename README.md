@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Senior AI Engineer @ Oracle
-**Architecting Production-Grade Agentic AI & Hybrid RAG Systems**
+**Architecting Production-Grade AI Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakethvadlamudi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakethvadlamudi22@gmail.com) 
 
