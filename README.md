@@ -1,14 +1,24 @@
-# 💫 About Me:
-* 🚀 **Senior AI Engineer @ Oracle** specializing in building production-grade **GenAI, RAG, and ML systems** at scale.
-* [cite_start]🧠 Architect of **autonomous, multi-agent reasoning engines** using **LangGraph** to decompose complex user requests into intelligent execution graphs[cite: 15].
-* [cite_start]🔍 Expert in designing **Hybrid RAG search systems** that combine semantic recall with dense vector embeddings for high-precision retrieval[cite: 29, 30].
-* [cite_start]⚖️ Specialized in **LLM Fine-tuning (QLoRA)** to optimize open-source models for domain-specific tasks[cite: 36, 38].
-* [cite_start]☁️ Deep experience in deploying **cloud-native ML pipelines** across **AWS and GCP**, ensuring robust and scalable infrastructure[cite: 10, 27].
-* [cite_start]🎓 **Executive Post Graduate in Data Science & AI from IIT Roorkee**, bridging advanced research with real-world engineering[cite: 42].
-* [cite_start]🏅 **Google Cloud Certified Professional ML Engineer** focused on delivering high-quality, user-centric AI solutions[cite: 45].
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakethvadlamudi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakethvadlamudi22@gmail.com) 
+# 🚀 Senior AI Engineer @ Oracle
+**Architecting Production-Grade Agentic AI & Hybrid RAG Systems**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakethvadlamudi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakethvadlamudi22@gmail.com) 
+
+</div>
+
+---
+
+# 💫 About Me
+* 🚀 **Senior AI Engineer @ Oracle** specializing in building production-grade **GenAI, RAG, and ML systems** at scale.
+* 🧠 Architect of **autonomous, multi-agent reasoning engines** using **LangGraph** to decompose complex user requests into intelligent execution graphs.
+* 🔍 Expert in designing **Hybrid RAG search systems** that combine semantic recall with dense vector embeddings for high-precision retrieval.
+* ⚖️ Specialized in **LLM Fine-tuning (QLoRA)** to optimize open-source models for domain-specific tasks.
+* ☁️ Deep experience in deploying **cloud-native ML pipelines** across **AWS and GCP**, ensuring robust and scalable infrastructure.
+* 🎓 **Executive Post Graduate in Data Science & AI from IIT Roorkee**, bridging advanced research with real-world engineering.
+* 🏅 **Google Cloud Certified Professional ML Engineer** focused on delivering high-quality, user-centric AI solutions.
+
+---
 
 # 💻 Tech Stack
 
@@ -24,10 +34,20 @@
 ### 🗄️ Databases & Frameworks
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saketh-Vadlamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Saketh-Vadlamudi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Vadlamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saketh-Vadlamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Saketh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh-Vadlamudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Saketh-Vadlamudi&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
